@@ -1,4 +1,4 @@
- ____________________________# Hi there👋, I'm Muskan.
+   # Hi there👋, I'm Muskan.
 I am a recent B.Tech graduate with a specialization in Data Science, and I'm thrilled to be part of the ever-evolving world of data. As an enthusiastic fresher, I bring a highly motivated and creative mindset, driven to learn and apply new skills in real-world scenarios. My relentless pursuit of perfection in every task assigned pushes me to excel in the field of data.
 
  # ABOUT ME
