@@ -1,4 +1,7 @@
-### Hi there 👋 I am a recent B.Tech graduate with a specialization in Data Science, and I'm thrilled to be part of the ever-evolving world of data. As an enthusiastic fresher, I bring a highly motivated and creative mindset, driven to learn and apply new skills in real-world scenarios. My relentless pursuit of perfection in every task assigned pushes me to excel in the field of data.
+ Hi there 👋 I am a recent B.Tech graduate with a specialization in Data Science, and I'm thrilled to be part of the ever-evolving world of data. As an enthusiastic fresher, I bring a highly motivated and creative mindset, driven to learn and apply new skills in real-world scenarios. My relentless pursuit of perfection in every task assigned pushes me to excel in the field of data.
+
+ # ABOUT ME
+I have always been fascinated by the power of data in extracting meaningful insights and driving informed decision-making. My journey into the world of data analysis and data science began during my college. Since then, I've been on a quest to learn and apply various data-driven techniques to solve real-world problems.
 
 <!--
 **MUSKAN1903/MUSKAN1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
