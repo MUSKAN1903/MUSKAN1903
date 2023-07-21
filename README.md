@@ -3,6 +3,9 @@
  # ABOUT ME
 I have always been fascinated by the power of data in extracting meaningful insights and driving informed decision-making. My journey into the world of data analysis and data science began during my college. Since then, I've been on a quest to learn and apply various data-driven techniques to solve real-world problems.
 
+# Tools & Technology
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--
 **MUSKAN1903/MUSKAN1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
