@@ -1,4 +1,4 @@
-![github_cover](https://github.com/MUSKAN1903/MUSKAN1903/assets/70433658/82f45e1c-3029-4a60-90d8-3d6f60631ddb)
+![github_cover](https://github.com/MUSKAN1903/MUSKAN1903/assets/70433658/e511e5f2-c884-4324-905e-900efe5596b0)
    # Hi there👋, I'm Muskan.
 I am a recent B.Tech graduate with a specialization in Data Science, and I'm thrilled to be part of the ever-evolving world of data. As an enthusiastic fresher, I bring a highly motivated and creative mindset, driven to learn and apply new skills in real-world scenarios. My relentless pursuit of perfection in every task assigned pushes me to excel in the field of data.
 
